@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanaabhirajk
 - 👀 I’m interested in ...computer technology
 - 🌱 I’m currently learning ...B.E Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...python projects
+- 💞️ I’m looking to collaborate on ...machine learning and depp learning python projects
 - 📫 How to reach me ...email at dhanaabhirajk@gmail.com
 
 <!---
