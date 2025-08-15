@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...computer technology
 - 🌱 I’m currently learning ...B.E Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...machine learning and deep learning python projects
-- 📫 How to reach me ...email at dhanaabhirajk@gmail.com
 - linkedin profile https://www.linkedin.com/in/dhanaabhirajk/
 <!---
 dhanaabhirajk/dhanaabhirajk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
